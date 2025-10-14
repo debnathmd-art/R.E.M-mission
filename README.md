@@ -74,7 +74,7 @@ Head to the Products section and discover what nature-powered simplicity looks l
 </p>
 <div style="text-align: center;"><article>Earth first, you next.</article></div>
 <div style="text-align: center;">
-<img src="[https://th.bing.com/th/id/OIP.8B53j0VXB-_r7ZEzmhMJwAHaEv?w=304&h=195&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3](https://th.bing.com/th/id/OIP.W8bjoKi3R90bUX1heUmkTAHaE8?w=273&h=182&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3)" width="500" height="500">
+<img src="https://th.bing.com/th/id/OIP.KXm87Ae5z8-xZID_rS3svgHaGK?w=216&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" width="500" height="500">
 </div>
 <p class="p">An example of our products.</p>
 </body>
