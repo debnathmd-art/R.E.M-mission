@@ -8,6 +8,7 @@
     body {
       margin: 0;
       font-family: sans-serif;
+      background-color: white;
     }
     h1 {
       text-align: center;
